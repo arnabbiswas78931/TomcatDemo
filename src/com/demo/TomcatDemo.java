@@ -29,7 +29,7 @@ public class TomcatDemo extends javax.servlet.http.HttpServlet {
         String driver = "com.mysql.jdbc.Driver";
         String dataurl = "jdbc:mysql://localhost:3306/test";
         String user = "root";
-        String passwd = "licheng123";
+        String passwd = "licheng123@";
 
 
         response.setContentType("text/html");
